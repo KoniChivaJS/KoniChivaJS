@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Eduard!
 
-<!--
-**KoniChivaJS/KoniChivaJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** from Ukraine 🇺🇦  
+I love building modern, scalable, and user-friendly web applications using **Next.js**, **NestJS**, and **TypeScript**.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔧 **Car Auction Platform** — full-featured auction system for damaged vehicles built with Next.js & NestJS
+- 🎬 **Video Editing App** — web app for recording, uploading, and trimming videos directly in the browser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+- **Backend:** NestJS, Node.js, PostgreSQL, MongoDB  
+- **Tools:** Git, Docker, Prisma, REST APIs  
+- **Cloud:** AWS (Certified Cloud Practitioner)
+
+## 📚 Currently Learning
+- Advanced AWS services (S3, EC2)
+- Vue.js && Angular
+
+## 🌐 Let's Connect!
+- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/eduard-kuruliak-2b76aa274/))  
+- Email: mredik200@gmail.com
+
+---
+
+Thanks for visiting my profile! 😊
