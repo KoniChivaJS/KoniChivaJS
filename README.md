@@ -18,7 +18,7 @@ I love building modern, scalable, and user-friendly web applications using **Nex
 - Vue.js && Angular
 
 ## 🌐 Let's Connect!
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/eduard-kuruliak-2b76aa274/))  
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/eduard-kuruliak-2b76aa274/)  
 - Email: mredik200@gmail.com
 
 ---
